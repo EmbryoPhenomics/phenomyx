@@ -14,6 +14,15 @@ profile:
     <p>1 Davy Road, Plymouth</p>
     <p>Devon, PL6 8BX, UK</p>
 
+
+
+![Alt text for broken image link](assets/img/phenomyx-logo.png)
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/phenomyx-logo.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+   </div> 
 #selected_papers: true # includes a list of papers marked as "selected={true}"
 #social: true # includes social icons at the bottom of the page
 
@@ -26,7 +35,7 @@ profile:
 #  enabled: true
 #  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts #items
 #  limit: 3 # leave blank to include all the blog posts
----
+#---
 
 Phenomyx is a community interest company run by the EmbryoPhenomics Research Group at the University of Plymouth. 
 
