@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://embryophenomics.github.io/phenomyx//sitemap.xml
+Sitemap: https://embryophenomics.github.io//sitemap.xml
