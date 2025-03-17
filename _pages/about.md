@@ -16,7 +16,9 @@ profile:
 
 
 
-![Alt text for broken image link](assets/img/phenomyx-logo.png)
+[![Phenomyx](assets/img/phenomyx-logo.png)]
+
+[![CV Preview](readme_preview/cv.png)](https://alshedivat.github.io/al-folio/cv/)
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
